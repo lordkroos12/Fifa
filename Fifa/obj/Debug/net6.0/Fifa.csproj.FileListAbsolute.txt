@@ -1,0 +1,15 @@
+C:\Users\Joro\source\repos\Fifa\Fifa\bin\Debug\net6.0\Fifa.exe
+C:\Users\Joro\source\repos\Fifa\Fifa\bin\Debug\net6.0\Fifa.deps.json
+C:\Users\Joro\source\repos\Fifa\Fifa\bin\Debug\net6.0\Fifa.runtimeconfig.json
+C:\Users\Joro\source\repos\Fifa\Fifa\bin\Debug\net6.0\Fifa.dll
+C:\Users\Joro\source\repos\Fifa\Fifa\bin\Debug\net6.0\Fifa.pdb
+C:\Users\Joro\source\repos\Fifa\Fifa\obj\Debug\net6.0\Fifa.csproj.AssemblyReference.cache
+C:\Users\Joro\source\repos\Fifa\Fifa\obj\Debug\net6.0\Fifa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joro\source\repos\Fifa\Fifa\obj\Debug\net6.0\Fifa.AssemblyInfoInputs.cache
+C:\Users\Joro\source\repos\Fifa\Fifa\obj\Debug\net6.0\Fifa.AssemblyInfo.cs
+C:\Users\Joro\source\repos\Fifa\Fifa\obj\Debug\net6.0\Fifa.csproj.CoreCompileInputs.cache
+C:\Users\Joro\source\repos\Fifa\Fifa\obj\Debug\net6.0\Fifa.dll
+C:\Users\Joro\source\repos\Fifa\Fifa\obj\Debug\net6.0\refint\Fifa.dll
+C:\Users\Joro\source\repos\Fifa\Fifa\obj\Debug\net6.0\Fifa.pdb
+C:\Users\Joro\source\repos\Fifa\Fifa\obj\Debug\net6.0\Fifa.genruntimeconfig.cache
+C:\Users\Joro\source\repos\Fifa\Fifa\obj\Debug\net6.0\ref\Fifa.dll
